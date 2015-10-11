@@ -1,4 +1,6 @@
-###This Tutorial disciples how to connect your raspberry pi with your PC.
+### Remote pi control
+
+This Tutorial disciples how to connect your raspberry pi with your PC.
 
 #####Remote GUI connection
 
@@ -17,7 +19,9 @@
 ####Remote console
   
 * There is also a second method called SSD Connection and you need the program [putty](http://www.putty.org/) on your pc
-  
+
+---
+
 This project is licensed under a [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ###The source code is licensed under the MIT License (MIT)
