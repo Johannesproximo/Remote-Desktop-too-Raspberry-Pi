@@ -18,12 +18,9 @@
   
 * There is also a second method called SSD Connection and you need the program [putty](http://www.putty.org/) on your pc
   
-License
+This project is licensed under a [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-CC_CC CC_BY CC_NC CC_SA
-
-This project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-The source code is licensed under the MIT License (MIT)
+###The source code is licensed under the MIT License (MIT)
 
 Copyright (c) 2015 Johannes Leick
 
